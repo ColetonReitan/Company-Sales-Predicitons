@@ -1,12 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# ## Green Team Final Project 
-# ### Coleton, Barbara, Louis
-
-# In[1]:
-
-
 import os
 import gc
 import datetime
