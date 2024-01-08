@@ -3,3 +3,5 @@ Business Question - In order to help a company identify the optimal amount of pr
 An Optimization and Prescriptive Models group final project, lead by myself along with 2 others in March 2023.
 
 Completed fully with Python using Jupyter Notebook. 
+
+The data used could not be posted as it may be classified company data. 
